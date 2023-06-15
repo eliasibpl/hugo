@@ -1,0 +1,4 @@
+baseURL = 'http://hugo.eibanez.cf/'
+languageCode = 'en-us'
+title = 'Proves Hugo'
+theme = 'ananke'
